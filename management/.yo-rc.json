@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ironhack.management"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "management",
+    "packageName": "com.ironhack.management",
+    "packageFolder": "com/ironhack/management",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTBkZmMxY2RiOTcyMDU4ZDI1NGZkMjExOWZjMDQ0ZWFkNWNiODVhZTk3MzI2MjJlNDY3MTBiODhjMTI5NjkyYTNiNmMzYmQ2MjAyYTBiNWY1ZTZhMWQyMzk0YTRlNDQ3YzdlY2U5OTJjYzFlMmYyMTkzNmE4MGFmZTBhZTQ1ODY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1595457192298,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
